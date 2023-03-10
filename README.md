@@ -1,4 +1,4 @@
-# Alexnj Clangd
+# clangd
 
 ## How do I install these formulae?
 
