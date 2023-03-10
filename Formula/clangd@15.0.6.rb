@@ -1,4 +1,4 @@
-class Clangd1506 < Formula
+class ClangdAT1506 < Formula
   desc "Language server for C++ and other C-family languages"
   homepage "https://github.com/clangd/clangd/"
   url "https://github.com/clangd/clangd/releases/download/15.0.6/clangd-mac-15.0.6.zip"
