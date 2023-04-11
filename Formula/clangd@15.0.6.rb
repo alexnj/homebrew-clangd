@@ -4,6 +4,7 @@ class ClangdAT1506 < Formula
   url "https://github.com/clangd/clangd/releases/download/15.0.6/clangd-mac-15.0.6.zip"
   sha256 "208adf698e73174e35e582b00d6c6f811dd98b2adbba754eb7e8224f0d739415"
   license "Apache-2.0"
+  revision 1
 
   resource "clangd-indexing-tools" do
     url "https://github.com/clangd/clangd/releases/download/15.0.6/clangd_indexing_tools-mac-15.0.6.zip"
